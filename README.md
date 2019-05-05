@@ -5,7 +5,7 @@ Sample application for the Avengers Endgame Google Easter Egg. To see the Easter
 
 
 ## Run the Application
-open snap.html with any internet browser. (Tested with Google Chrome, Firefox and Opera Browser)
+Open snap.html with any internet browser. (Tested with Google Chrome, Firefox and Opera Browser)
 
 
 
